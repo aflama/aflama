@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aflama
-- 📫 You can find me at http://aflama.online
+- 📫 More about me there -> http://aflama.online
 
 <!---
 aflama/aflama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
